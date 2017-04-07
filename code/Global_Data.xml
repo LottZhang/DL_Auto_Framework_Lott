@@ -1,0 +1,16 @@
+<Environment>
+
+	<Variable>
+		<Name>URL_HPE</Name>
+		<Value>http://mdcp-portal-itg.itcs.hp.com:8180/batchUpload/</Value>
+	</Variable>
+	<Variable>
+		<Name>URL_HPI</Name>
+		<Value>http://mdcp-portal-hpi-i.itcs.hp.com:8180/batchUpload/login.jsp</Value>
+	</Variable>
+	<Variable>
+		<Name>NoAuthorizationEmail</Name>
+		<Value></Value>
+	</Variable>
+	
+</Environment>

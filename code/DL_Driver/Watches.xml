@@ -1,0 +1,11 @@
+﻿<Properties>
+  <WatchEntry0 value="g_strTestCaseName" />
+  <WatchEntry1 value="strErrorMessage" />
+  <WatchEntry2 value="strSuccessMessage" />
+  <WatchEntry3 value="g_strUserName" />
+  <WatchEntry4 value="strSuccessMessage" />
+  <WatchEntry5 value="objRs(i)" />
+  <WatchEntry6 value="i" />
+  <WatchEntry7 value="DBrecord" />
+  <WatchEntry8 value="mid(DBrecord,1)" />
+</Properties>
